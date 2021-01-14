@@ -1,0 +1,3 @@
+✔️ prefer long over int ,(for problems with large n)
+✔️ type casting often used in some problems ,,  e.g. (int)a where a is floating-pt number 
+✔️ special focus on special char e.g. ≥, ≤, >, <, Σ, ∏,  
